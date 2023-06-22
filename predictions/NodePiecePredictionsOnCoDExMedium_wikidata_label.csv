@@ -1,0 +1,51 @@
+Unnamed: 0,head_id,relation_id,tail_id,score
+0,Pakistan,diplomatic relation,People's Republic of China,-0.6699489
+1,India,diplomatic relation,People's Republic of China,-0.6756121
+2,Ukraine,diplomatic relation,People's Republic of China,-0.81486714
+3,Bangladesh,diplomatic relation,Bangladesh,-0.85104007
+4,Brazil,diplomatic relation,People's Republic of China,-0.8570815
+5,Australia,diplomatic relation,Bangladesh,-0.88268834
+6,Australia,diplomatic relation,Serbia,-0.88509476
+7,Indonesia,diplomatic relation,People's Republic of China,-0.88578063
+8,Pakistan,diplomatic relation,Taiwan,-0.88665444
+9,Morgan Freeman,occupation,film actor,-0.8993329
+10,Morgan Freeman,occupation,television actor,-0.9082583
+11,Indonesia,diplomatic relation,Taiwan,-0.9084025
+12,Morgan Freeman,occupation,actor,-0.90887415
+13,Kenya,diplomatic relation,Taiwan,-0.9183447
+14,Franco Venturi,"languages spoken, written, or signed",German,-0.9194728
+15,People's Republic of China,diplomatic relation,Serbia,-0.9212746
+16,Bangladesh,diplomatic relation,Mexico,-0.92589915
+17,Iran,diplomatic relation,People's Republic of China,-0.9315971
+18,Evita,country of origin,United States of America,-0.9326027
+19,India,diplomatic relation,Taiwan,-0.9369881
+20,Pakistan,diplomatic relation,Bangladesh,-0.93831265
+21,Hungary,diplomatic relation,Bangladesh,-0.94109845
+22,Hungary,diplomatic relation,People's Republic of China,-0.9428621
+23,Ukraine,diplomatic relation,Taiwan,-0.9444919
+24,Malaysia,diplomatic relation,Mexico,-0.9475266
+25,Mike Myers,"languages spoken, written, or signed",English,-0.9506777
+26,Michael Steele,occupation,singer,-0.9512065
+27,Greece,diplomatic relation,People's Republic of China,-0.9609921
+28,James Coburn,"languages spoken, written, or signed",English,-0.9621386
+29,India,diplomatic relation,Bangladesh,-0.96429914
+30,Herman Grimm,"languages spoken, written, or signed",German,-0.9682754
+31,Uruguay,diplomatic relation,Taiwan,-0.9706698
+32,Chile,diplomatic relation,Taiwan,-0.9715307
+33,Serbia,diplomatic relation,Serbia,-0.9800589
+34,Iran,diplomatic relation,Taiwan,-0.980731
+35,Hungary,diplomatic relation,Georgia,-0.9832314
+36,Venezuela,diplomatic relation,Taiwan,-0.98344266
+37,Alexander Hamilton,"languages spoken, written, or signed",English,-0.9864915
+38,Pakistan,diplomatic relation,Mexico,-0.993237
+39,Japan,diplomatic relation,Serbia,-0.9968889
+40,Brazil,diplomatic relation,Taiwan,-0.9982136
+41,Bill Kristol,"languages spoken, written, or signed",English,-1.0033493
+42,Rainer Werner Fassbinder,"languages spoken, written, or signed",English,-1.0042212
+43,Bob Kaufman,"languages spoken, written, or signed",English,-1.0048906
+44,Linda Ronstadt,occupation,singer,-1.005707
+45,India,diplomatic relation,Mexico,-1.0063509
+46,Indonesia,diplomatic relation,Mexico,-1.0091908
+47,Greece,diplomatic relation,Georgia,-1.0104212
+48,Greece,diplomatic relation,Serbia,-1.0139886
+49,Fernando Solanas,"languages spoken, written, or signed",English,-1.0143685
